@@ -20,7 +20,6 @@ I build backend systems and APIs with Laravel — focused on clean architecture,
 |---|---|---|
 | Online-Food-Ordering-System
 https://github.com/vishnuprakash004/Online-Food-Ordering-System | Short one-line description of what it does and why it's interesting | Laravel, MySQL, Spatie |
-*(Replace these with your real pushed projects — see checklist below)*
 
 ---
 
